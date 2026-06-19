@@ -1,0 +1,7 @@
+*.rar
+*.csv
+*.pkl
+*.pptx
+*.docx
+__pycache__/
+*.pyc
